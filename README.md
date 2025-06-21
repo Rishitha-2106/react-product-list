@@ -47,8 +47,6 @@ Implement sorting by price or category
 
 📂 Project Structure
 csharp
-Copy
-Edit
 react-product-list/
 ├── public/
 ├── src/
